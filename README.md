@@ -19,5 +19,5 @@ Note I figure out optimized number of clusters.
 
 Now I create a new data frame with the original features and add the PCA scores and assigned clusters.
 
-[pca_components](https://user-images.githubusercontent.com/26453844/115722535-882dee00-a398-11eb-9dc4-3867deec636a.png)
+![pca_components](https://user-images.githubusercontent.com/26453844/115722535-882dee00-a398-11eb-9dc4-3867deec636a.png)
 
