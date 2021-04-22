@@ -17,7 +17,7 @@ Note I figure out optimized number of clusters.
 
 ![WCSS](https://user-images.githubusercontent.com/26453844/115724184-29697400-a39a-11eb-9158-db9f0a3c803e.png)
 
-Now I create a new data frame with the original features and add the PCA scores and assigned clusters.
+Now I create a new data frame with the original features and add the PCA scores and assigned clusters. PCA is used to reduce the dimension and get rid of unnecessary varaibles.
 
 ![pca_components](https://user-images.githubusercontent.com/26453844/115722535-882dee00-a398-11eb-9dc4-3867deec636a.png)
 
