@@ -21,3 +21,7 @@ Now I create a new data frame with the original features and add the PCA scores 
 
 ![pca_components](https://user-images.githubusercontent.com/26453844/115722535-882dee00-a398-11eb-9dc4-3867deec636a.png)
 
+Lets now analyze segment proportions.
+
+![segprop](https://user-images.githubusercontent.com/26453844/115765190-e28e7500-a3bf-11eb-80de-aa7f209b139b.png)
+
