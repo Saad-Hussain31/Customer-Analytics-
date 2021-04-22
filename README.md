@@ -1,2 +1,2 @@
 # Customer-Analytics-Python-
-Segmentation of customers using unsupervised learning algorithms and applying deep learning model for future prediction about most fruitful segment of customers.
+The STP framework of marketing is the backbone of this machine learning project. Segmentation is done using unsupervised learning algorithms and supervised learning determines the most fruitful segments for targeting and positioning of products in the future.
